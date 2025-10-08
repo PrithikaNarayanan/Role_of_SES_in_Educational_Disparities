@@ -73,3 +73,48 @@ In urban areas, quality of education and parental involvement dominate. Students
 
 **Inference:**  
 In rural contexts, accessibility and maternal education outweigh other variables. Rural students rely heavily on peer and community support, highlighting a collaborative learning culture despite infrastructural limitations.
+
+# 📚 Comparative Summary: Rural vs Urban Educational Factors
+
+## 💬 Comparative Summary
+
+| **Aspect** | **Rural Areas** | **Urban Areas** |
+|-------------|------------------|------------------|
+| **Primary Predictors** | School Distance, Mother’s Education | Income, Mother’s Education, Educational Board |
+| **Social Influences** | Peer & Community Support | Parental Involvement |
+| **Educational Resources** | Limited; community-driven | Abundant; institution-driven |
+| **Effect of Aid** | High impact; bridges economic gap | Moderate; used to supplement learning |
+| **Cultural Factors** | Collective learning environment | Competitive academic structure |
+
+---
+
+## 🧩 Model Implications
+
+- **Educational Accessibility:** Distance remains a key determinant, emphasizing the need for more localized schools in rural regions.  
+- **Maternal Education:** Empowering mothers through adult education programs can directly improve student outcomes.  
+- **Policy Focus:** Scholarship expansion, school infrastructure, and resource equality can effectively reduce rural–urban disparities.  
+- **Systemic Equity:** Addressing caste-based barriers and unequal resource distribution remains vital for educational parity.  
+
+---
+
+## 📈 Model Fit Summary (SEM)
+
+| **Construct** | **χ²/df** | **CFI** | **TLI** | **RMSEA** | **Interpretation** |
+|----------------|-----------|----------|----------|-------------|--------------------|
+| **Perception - Total** | 1.35 | 0.992 | 0.983 | 0.042 | Excellent fit |
+| **Perception - Rural** | 0.13 | 1.000 | 1.141 | 0.049 | Excellent fit |
+| **Perception - Urban** | 1.61 | 0.987 | 0.967 | 0.079 | Good fit |
+
+✅ *All indices meet recommended thresholds, confirming good model validity and reliability.*
+
+---
+
+## 🧠 Overall Conclusion
+
+The study establishes that **socioeconomic status profoundly affects academic achievement**, mediated by school accessibility, parental education, income, and cultural environment.  
+
+While **urban areas** benefit from structured parental and institutional support, **rural students** thrive on collective peer and community encouragement.  
+
+This comparative analysis underscores the necessity for **context-specific educational policies** to ensure equal academic opportunities across geographic and socioeconomic divisions.
+
+---
