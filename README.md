@@ -48,3 +48,48 @@ It compares these influences across rural and urban educational contexts in Karn
 - **Overall:** Parental Involvement, Quality of Education
 
 ---
+
+## 2️⃣ Perception Analysis — Regression Coefficients  
+
+| Variable                     | Total     | Rural (Rank) | Urban (Rank) |
+|-----------------------------|-----------|--------------|--------------|
+| Quality of Education        | 0.636 (4) | 0.439 (5)    | 0.905 (1)    |
+| Availability of Resources   | 0.646 (3) | 0.542 (3)    | 0.706 (3)    |
+| Support from Peers          | 0.665 (1) | 0.512 (4)    | 0.761 (2)    |
+| Parental Involvement        | 0.537 (5) | 0.576 (2)    | 0.526 (5)    |
+| Community Support           | 0.662 (2) | 0.714 (1)    | 0.704 (4)    |
+
+**Interpretation:**  
+- Peer and community support play a more significant role in rural areas, indicating stronger collective engagement and camaraderie.  
+- In contrast, parental involvement and quality of education dominate in urban contexts, reflecting structured guidance and access to better academic facilities.
+
+---
+
+## 🧠 Interpretation of Overall Findings  
+- Socioeconomic factors have a substantial impact on academic achievement.  
+- Students from higher-income, urban backgrounds tend to perform better academically.  
+- Mother’s education consistently emerges as a strong predictor of student success.  
+- School accessibility and government aid are crucial in improving rural education outcomes.
+
+---
+
+## 💡 Implications  
+The study emphasizes the need for targeted interventions to reduce rural–urban educational disparities through:  
+- Expanding school access and infrastructure  
+- Strengthening financial aid programs  
+- Promoting parental and community involvement  
+- Enhancing educational quality and teacher support
+
+---
+
+## 📈 Statistical Model Summary  
+
+**Regression Analysis:**  
+- Key predictors of academic success: School Distance, Income, Mother’s Education  
+
+**Perception Model (SEM):**  
+- **Peer Support** → Strongest influence overall  
+- **Community Support** → Highest in rural regions  
+- **Parental Involvement & Quality of Education** → Strongest in urban settings
+
+---
