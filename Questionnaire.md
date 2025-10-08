@@ -64,3 +64,63 @@ Your responses are **confidential** and will be used only for academic and resea
     ☐ Undergraduate  
     ☐ Postgraduate  
     ☐ PhD  
+
+10. **Educational Qualification (Mother)**  
+    ☐ No Formal Education  
+    ☐ 10th  
+    ☐ 12th  
+    ☐ Undergraduate  
+    ☐ Postgraduate  
+    ☐ PhD  
+
+11. **Caste / Community**  
+    ☐ General  
+    ☐ OBC  
+    ☐ SC  
+    ☐ ST  
+    ☐ Other  
+
+---
+
+## 🏫 Educational Context
+
+12. **What was your board of education?**  
+    ☐ CBSE  
+    ☐ ICSE  
+    ☐ State Board  
+    ☐ Matriculation  
+    ☐ Other  
+
+13. **Did you receive Government Aid for your education?**  
+    ☐ Yes  
+    ☐ No  
+
+---
+
+## 📊 Schooling Experience  
+*(Rate each aspect from 1 to 5 — 1 = Poor, 5 = Excellent)*
+
+14. **Quality of Education**  
+    ⭐ ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5  
+
+15. **Availability of Educational Resources**  
+    ⭐ ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5  
+
+16. **Support from Peers**  
+    ⭐ ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5  
+
+17. **Parental Involvement**  
+    ⭐ ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5  
+
+18. **Community Support**  
+    ⭐ ☐ 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5  
+
+---
+
+## 💰 Financial Circumstances
+
+19. **Have you ever missed school due to financial reasons?**  
+    ☐ Yes  
+    ☐ No  
+
+---
